@@ -1,4 +1,3 @@
-library(plyr)
 library(reshape2)
 
 ## Read 'feature.txt' and rename column name
